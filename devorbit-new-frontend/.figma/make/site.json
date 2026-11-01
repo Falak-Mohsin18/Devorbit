@@ -1,0 +1,10 @@
+{
+  "description": "A developer-focused platform enabling project management, team collaboration, and skill growth insights through an intuitive, modern dashboard.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
